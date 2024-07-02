@@ -1,0 +1,1 @@
+Este ejericcio ayudo a comprender de muchas formas como se recorre una secuencia fibonnacci, basicamente implementamos un archivo js a una hoja html para correr nuestro programa y verlos desde el nagevador. 
